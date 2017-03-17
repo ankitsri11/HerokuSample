@@ -1,4 +1,4 @@
-# ruby-getting-started
+######### ruby-getting-started
 
 [![Build Status](https://snap-ci.com/anishvenkat/HerokuSample/branch/master/build_image)](https://snap-ci.com/anishvenkat/HerokuSample/branch/master)
 
