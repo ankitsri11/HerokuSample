@@ -1,7 +1,7 @@
 ######### ruby-getting-started
 
 [![Build Status](https://snap-ci.com/anishvenkat/HerokuSample/branch/master/build_image)](https://snap-ci.com/anishvenkat/HerokuSample/branch/master)
-
+#chnage from branch 
 A barebones Rails app, which can easily be deployed to Heroku.
 
 This application support the [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
